@@ -2,10 +2,10 @@
 ====================================================
 TUGAS OOP PLAYLIST MUSIK
 Nama Kelompok :
-1. Arti Suryaning Tyas - (NIM)
-2. Alviyan Syafriansyah Matondang - (NIM)
+1. Arti Suryaning Tyas - 2902724341
+2. Alviyan Syafriansyah Matondang - (2902730565)
 3. Hilman Permana - 2902727532
-4. Andika - (NIM)
+4. Andika Indra Kirana - 2602204405
 
 Program : Sistem Manajemen Playlist Musik
 ====================================================
